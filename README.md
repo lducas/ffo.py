@@ -5,7 +5,7 @@
 
 A Python implementation of the algorithm proposed in
 
-[Ducas and Prest: https://eprint.iacr.org/2015/???]
+[Ducas and Prest: https://eprint.iacr.org/2015/1014/]
 
 The code is Public Domain. 
 
